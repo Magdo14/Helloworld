@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e5e2458-bf60-4650-b18e-17aadb9dd06c" name="Default Changelist" comment="" />
+    <list default="true" id="8e5e2458-bf60-4650-b18e-17aadb9dd06c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GIT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +22,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hmekwfmIsmwV6C0W8rrYtTHoAw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,7 +43,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600620843058</updated>
-      <workItem from="1600620844611" duration="53000" />
+      <workItem from="1600620844611" duration="928000" />
+      <workItem from="1600622325455" duration="370000" />
+      <workItem from="1600622710728" duration="1145000" />
+      <workItem from="1600628251724" duration="562000" />
+      <workItem from="1600629920029" duration="1074000" />
     </task>
     <servers />
   </component>
@@ -40,9 +55,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="164" key="SettingsEditor" timestamp="1600620897373">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1380" y="174" key="#CLI_Interpreters" timestamp="1600623136072">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1380" y="174" key="#CLI_Interpreters/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600623136072" />
+    <state x="-1302" y="179" key="#PHP" timestamp="1600622624063">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1302" y="179" key="#PHP/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600622624063" />
+    <state x="-1555" y="191" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600622378292">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1555" y="191" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600622378292" />
+    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1600623135447">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600623135447" />
+    <state x="-1175" y="460" key="NewPhpFileDialog" timestamp="1600622472576">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1175" y="460" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600622472576" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1600623137518">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600623137518" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600620897373" />
   </component>
 </project>
