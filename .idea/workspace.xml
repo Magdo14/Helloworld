@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e5e2458-bf60-4650-b18e-17aadb9dd06c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GIT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +42,9 @@
       <workItem from="1600622710728" duration="1145000" />
       <workItem from="1600628251724" duration="562000" />
       <workItem from="1600629920029" duration="1074000" />
+      <workItem from="1601111886888" duration="635000" />
+      <workItem from="1601229203164" duration="43000" />
+      <workItem from="1601229258204" duration="629000" />
     </task>
     <servers />
   </component>
@@ -67,10 +64,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1555" y="191" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600622378292" />
-    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1600623135447">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601111923367">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600623135447" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601111923367" />
     <state x="-1175" y="460" key="NewPhpFileDialog" timestamp="1600622472576">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
